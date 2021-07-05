@@ -1,0 +1,15 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "cypress run"
+  },
+  "keywords": [],
+  "author": "Charles Agra",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.6.0"
+  }
+}
