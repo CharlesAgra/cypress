@@ -6,7 +6,7 @@ describe('screenshot', function () {
 
         cy.fixture('../images/screenshot-google-original.png').then((original) => {
             cy.fixture('../screenshots/screenshot_google.js/screenshot-google-current.png').then((current) => {
-                expect(original).to.equal(current)
+                expect(current).to.equal(original)
             })
         })
     })
