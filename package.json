@@ -4,7 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
-    "start": "cypress run --headless --browser electron"
+    "start": "cypress run"
   },
   "keywords": [],
   "author": "Charles Agra",
